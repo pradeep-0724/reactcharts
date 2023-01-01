@@ -49,7 +49,7 @@ export function ReactCharts() {
   
   return (
     <div>
-      
+      <h2>Charts in React usiing react-charts-js</h2>
       <div>
         {/* Bar Chart */}
         <Bar
