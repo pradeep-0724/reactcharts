@@ -44,3 +44,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+<<<<<<<<<How to run the Application>>>>>>>>>>>>>>>>
+
+  After downloading and extracting the zip file go to reactcharts folder location and run the command ( the  path should like this " reactcharts>npm install ") npm install to install all dependencies. after completing installation run the command npm start ( the  path should like this " reactcharts>npm start ").see the output in the browser.
+ 

@@ -49,7 +49,8 @@ export function ReactCharts() {
   
   return (
     <div>
-      <h2 style={{color:'green'}}>Charts in React using react-charts-js</h2>
+      <h1 style={{color:'green'}}>Charts in React using react-charts-js</h1>
+      <h2 style={{color:'blue'}}>Bar Chart</h2>
       <div>
         {/* Bar Chart */}
         <Bar
@@ -68,6 +69,7 @@ export function ReactCharts() {
        
       <hr></hr>
       {/* Scatter Plot */}
+      <h2 style={{color:'blue'}}>Scatter Plot</h2>
       <Scatter
         data={scatterchartdata}
         height={300}
