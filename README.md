@@ -48,5 +48,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 <<<<<<<<<How to run the Application>>>>>>>>>>>>>>>>
 
-  After downloading and extracting the zip file go to reactcharts folder location and run the command ( the  path should like this " reactcharts>npm install ") npm install to install all dependencies. after completing installation run the command npm start ( the  path should like this " reactcharts>npm start ").see the output in the browser.
+  After downloading and extracting the zip file go to reactcharts-main folder location and run the command ( the  path should like this " \reactcharts-main\reactcharts-main> ") npm install to install all dependencies. after completing installation run the command npm start ( the  path should like this " \reactcharts-main\reactcharts-main>").see the output in the browser.
  
