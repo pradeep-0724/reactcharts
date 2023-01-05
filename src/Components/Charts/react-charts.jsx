@@ -19,7 +19,7 @@ export function ReactCharts() {
    console.log(ar);
 
    const [scatterchartdata, setScatterChartdata] = useState({
-    labels: alcohol.map((data) => data.Alcohol),
+    labels: alcohol.map((data) => data["Color intensity"]),
     datasets: [
       {
         label: "Color_Intensity Vs Hue",
